@@ -1,1 +1,3 @@
 welcome to file2
+
+modofication to done to test from  git terminal
